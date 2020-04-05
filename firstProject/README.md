@@ -1,1 +1,1 @@
-my first javascript fi
+my first javascript
